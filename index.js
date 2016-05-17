@@ -14,7 +14,7 @@ function main() {
 
 	while (true) {
 		printBoard();
-		var guess = getGuess();
+		var guddddess = getGuess();
 		handleGuess(guess);
 		if (determineWinLose()) {
 			break;
@@ -36,6 +36,8 @@ function getBoardString() {
 		boardString += " ";
 	}
 	return boardString;
+
+	// cutie with a booty 
 }
 
 function welcome() {
